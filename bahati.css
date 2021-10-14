@@ -138,10 +138,10 @@ a{
       background-image: linear-gradient();
     }
     .one{
-      background-color: gold;
+      background-color: honeydew;
     }
     .two{
-      background-color: barkblue;
+      background-color: khaki;
     }
 .three{
   background-color: lime;
@@ -166,7 +166,7 @@ font-size: 18px;
 background-color: #dee7ec;
 color: #889eab;
 .tree-view {
-  // background-color: whitesmoke;
+  // background-color: green;
 }
 #mali{
   float: right;
